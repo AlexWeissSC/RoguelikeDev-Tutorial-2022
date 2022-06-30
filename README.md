@@ -1,2 +1,4 @@
-# RoguelikeDev-Tutorial-2022
-python3 implementation of the r/roguelikedev tutorial
+# RoguelikeDev Does The Complete Roguelike Tutorial
+python3 implementation of the r/roguelikedev tutorial 
+https://rogueliketutorials.com/tutorials/tcod/v2/
+
